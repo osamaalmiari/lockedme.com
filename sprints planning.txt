@@ -1,0 +1,27 @@
+****************************
+	LockedMe.com
+****************************
+Project goal:
+Creating a website that manages the files of the user and helps him to do it in easy steps.
+In this project we have created two sprints:
+A. In sprint one the team created 4 user stories and tasks that must be done in this sprint:-
+
+user stories:
+1.create a welcome screen that gives information about the website
+2.create option tab with three options to sort files, other options, and quiting.
+3.Make a code that quits the program.
+4.split option 2 (options) into:
+
+add files
+delete files
+search for files
+navigate back to the main menu
+
+B. In sprint two the team created 6 user stories and tasks that must be done in this sprint:-
+
+user stories:
+1.make a code that allows to create folders or files in a specific directory by just writing the name
+2.make a code that allows the user to delete a specific file from a specific directory
+3.create a code that allows the user to know if a specific file or folder exists in the location provided by the user
+4.Give option to the user to write whether he wants to continue with doing the task (adding, searching, deleting), if he wants to continue he should write yes or no.
+5.Create a code to keep the program working all time and a navigate option to return back to the main options.
